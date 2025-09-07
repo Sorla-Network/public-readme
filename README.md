@@ -3,12 +3,12 @@
 <div align="center">
 
 ```
-                   ███████╗ ██████╗ ██████╗ ██╗      █████╗ 
-                   ██╔════╝██╔═══██╗██╔══██╗██║     ██╔══██╗
-                   ███████╗██║   ██║██████╔╝██║     ███████║
-                   ╚════██║██║   ██║██╔══██╗██║     ██╔══██║
-                   ███████║╚██████╔╝██║  ██║███████╗██║  ██║
-                   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+                                      ███████╗ ██████╗ ██████╗ ██╗      █████╗ 
+                                      ██╔════╝██╔═══██╗██╔══██╗██║     ██╔══██╗
+                                      ███████╗██║   ██║██████╔╝██║     ███████║
+                                      ╚════██║██║   ██║██╔══██╗██║     ██╔══██║
+                                      ███████║╚██████╔╝██║  ██║███████╗██║  ██║
+                                      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
 **Intelligent News • Real-Time Collaboration • Infinite Customization**
@@ -27,14 +27,14 @@ Sorla transforms how you consume news by combining **lightning-fast RSS aggregat
 <div align="center">
 
 ```
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   RSS FEEDS     │───▶│   SORLA CORE    │───▶│   YOUR FEED     │
-│                 │    │                 │    │                 │
-│ • Thousands of  │    │ • Smart Filter  │    │ • Personalized  │
-│   Sources       │    │ • Real-time     │    │ • Collaborative │
-│ • Global News   │    │ • Messaging     │    │ • Interactive   │
-│ • Real-time     │    │ • Sandbox       │    │ • Streamlined   │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
+                                      ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+                                      │   RSS FEEDS     │───▶│   SORLA CORE    │───▶│   YOUR FEED     │
+                                      │                 │    │                 │    │                 │
+                                      │ • Thousands of  │    │ • Smart Filter  │    │ • Personalized  │
+                                      │   Sources       │    │ • Real-time     │    │ • Collaborative │
+                                      │ • Global News   │    │ • Messaging     │    │ • Interactive   │
+                                      │ • Real-time     │    │ • Sandbox       │    │ • Streamlined   │
+                                      └─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
 
 </div>
